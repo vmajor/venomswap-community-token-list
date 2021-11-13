@@ -222,5 +222,13 @@
     "name": "RAVE",
     "decimals": 9,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/RAVE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xed2A4E1577F7C90d84915250278B685bD6e498b3",
+    "symbol": "LAZR",
+    "name": "LAZR",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LAZR.png"
   }
 ]
