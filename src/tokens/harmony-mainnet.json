@@ -214,5 +214,13 @@
     "name": "FlokiONE",
     "decimals": 9,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/FLOKI.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xf9F0724cEB8671390bc422003628cB230d513702",
+    "symbol": "RAVE",
+    "name": "RAVE",
+    "decimals": 9,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/RAVE.png"
   }
 ]
