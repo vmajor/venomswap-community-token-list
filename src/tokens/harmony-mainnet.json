@@ -17,27 +17,11 @@
   },
   {
     "chainId":1666600000,
-    "address":"0x0a703601f8F641D4578A3d91C443e75F5a47a1A3",
-    "symbol":"CTS",
-    "name":"Clays Tipping Service",
-    "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CTS.png"
-  },
-  {
-    "chainId":1666600000,
     "address":"0x3Ec248eD4B69142A40FB2F2b9d990125a830A598",
     "symbol":"NFT",
     "name":"CryptoBunny",
     "decimals":18,
     "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/NFT.png"
-  },
-  {
-    "chainId":1666600000,
-    "address":"0x9017527236D84F96CF9AE6107629eFDa84B5c964",
-    "symbol":"MUSQ",
-    "name":"MUSIQ",
-    "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MUSQ.png"
   },
   {
     "chainId":1666600000,
@@ -113,22 +97,6 @@
   },
   {
     "chainId": 1666600000,
-    "address": "0x01546F85fBB5e116b4a43fC3D1B1213D82aCDA95",
-    "symbol": "1MIL",
-    "name": "ONEMILLION",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1MIL.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0x5ed8E6B0a0B72939970d612977F8303F78be446d",
-    "symbol": "CATA",
-    "name": "Catalyst",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CATA.png"
-  },
-  {
-    "chainId": 1666600000,
     "address": "0x54b3cc870576b2059f464929aE52196719631EaC",
     "symbol": "SEAHORSE",
     "name": "Seahorse",
@@ -156,6 +124,14 @@
     "address": "0xc0431Ddcc0D213Bf27EcEcA8C2362c0d0208c6DC",
     "symbol": "oSWAP",
     "name": "OpenSwap Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/OSWAP.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x01A4b054110d57069c1658AFBC46730529A3E326",
+    "symbol": "OpenX",
+    "name": "OpenSwapX Token",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/OSWAP.png"
   },
@@ -213,6 +189,30 @@
     "symbol": "fRENT",
     "name": "Fraterium Rent",
     "decimals": 9,
-    "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/FRENT.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x40d2f81bD135B5282CB2aA18F19cF7098079D012",
+    "symbol": "Ikura",
+    "name": "Ikura Token",
+    "decimals": 9,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/IKURA.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x892D81221484F690C0a97d3DD18B9144A3ECDFB7",
+    "symbol": "MAGIC",
+    "name": "Magic",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MAGIC.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x24b6179E4062ED9BAEacE0E6081Dbd55B6072380",
+    "symbol": "FLOKI",
+    "name": "FlokiONE",
+    "decimals": 9,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/FLOKI.png"
   }
 ]
