@@ -230,5 +230,21 @@
     "name": "LAZR",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LAZR.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x66CF8375fd083E7d103D69378e9AF20F1b46DC59",
+    "symbol": "HPLAY",
+    "name": "Harmony Play",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/HPLAY.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xd3a50c0dCE15C12fe64941FFd2B864e887c9B9E1",
+    "symbol": "APE",
+    "name": "HarmonApe",
+    "decimals": 9,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/APE.png"
   }
 ]
