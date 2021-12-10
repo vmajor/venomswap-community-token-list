@@ -246,5 +246,13 @@
     "name": "HarmonApe",
     "decimals": 9,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/APE.png"
+  },
+   {
+    "chainId": 1666600000,
+    "address": "0x5fcD22059e83787DccaC5722996d78d81B9E9517",
+    "symbol": "ZUM",
+    "name": "ZoomCoin",
+    "decimals": 18,
+    "logoURI": "https://venn-cycling.com/zoom_coin.png"
   }
 ]
